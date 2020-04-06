@@ -86,7 +86,7 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
   # 添加备案信息
-  customFooter = "津ICP备20001517号"
+  customFooter = "津ICP备20001517号-1"
 
   [params.social]                                         # 社交链接
     a-email = "mailto:y245956057@gmail.com"
