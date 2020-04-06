@@ -1,5 +1,5 @@
 ---
-title: "30-Day LeetCoding Challenge Day 1: Happy Nunber"
+title: "30-Day LeetCoding Challenge Day 1: Single Nunber"
 date: 2020-04-01T13:48:08+08:00
 lastmod: 2020-04-01T13:48:08+08:00
 draft: false
