@@ -95,7 +95,7 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
   # 添加备案信息
-  customFooter = "津ICP备20001517号-1"
+  customFooter = "津ICP备20001517号-1 | <img src=\"/gongan.png\" /><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=12010402001114\" style=\"color:#8a8a8a\">津公网安备 12010402001114号</a>"
 
   [params.social]                                         # 社交链接
     a-email = "mailto:y245956057@gmail.com"
