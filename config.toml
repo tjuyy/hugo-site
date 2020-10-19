@@ -107,9 +107,9 @@ defaultContentLanguage = "zh-cn"           # Default language to use
     enable = true
 
   [params.counter.leancloud]  # Chinese leancloud visitor counter  # leancloud 计数器
-    enable = true
-    appId = "HQX53rX193icHQWwFz3dSWBD-gzGzoHsz"
-    appKey = "SV9yXwGBMTbuDSYi0pAehs2e"
+    enable = false
+    appId = ""
+    appKey = ""
 
   [params.social]                                         # 社交链接
     a-email = "mailto:y245956057@gmail.com"
