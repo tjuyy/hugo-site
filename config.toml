@@ -101,7 +101,7 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
   # 添加备案信息
-  customFooter = "津ICP备20001517号-1 | <img src=\"/gongan.png\" alt=\"gongan\"/><a href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=12010402001114\" style=\"color:#8a8a8a\">津公网安备 12010402001114号</a>"
+  customFooter = "<a target=\"_blank\" href=\"https://beian.miit.gov.cn/\" style=\"color:#8a8a8a\">津ICP备20001517号-1</a> | <img src=\"/gongan.png\" alt=\"gongan\"/><a target=\"_blank\" href=\"http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=12010402001114\" style=\"color:#8a8a8a\">津公网安备 12010402001114号</a>"
 
   [params.counter.busuanzi]  # a Chinese visitor counter  # 不蒜子计数器
     enable = true
