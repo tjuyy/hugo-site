@@ -1,7 +1,7 @@
 # config.toml
 # 20200321
 baseURL = "https://tjuyy.cn/"
-title = "tjuyy's blog"
+title = "我的学习生活总结"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
